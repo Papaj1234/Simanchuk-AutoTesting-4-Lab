@@ -1,6 +1,6 @@
 using OpenQA.Selenium.Chrome;
 
-namespace SeleniumPatterns.Builders;
+namespace SeleniumPatterns.Builder;
 
 public class ChromeOptionsBuilder
 {

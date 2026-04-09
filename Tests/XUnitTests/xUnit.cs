@@ -1,4 +1,4 @@
-using SeleniumPatterns.Builders;
+using SeleniumPatterns.Builder;
 using SeleniumPatterns.Core;
 using SeleniumPatterns.Factory;
 using Xunit;

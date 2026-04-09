@@ -1,5 +1,5 @@
 using NUnit.Framework;
-using SeleniumPatterns.Builders;
+using SeleniumPatterns.Builder;
 using SeleniumPatterns.Core;
 using SeleniumPatterns.Factory;
 
